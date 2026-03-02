@@ -5,7 +5,7 @@
 **Live product** · **Freemium SaaS** · **Solo founder build**
 
 ---
-
+![WireHours Landing Page](assets/landing-page-desktop.png)
 ## The Problem
 
 Electrical apprentices across the U.S. must document **thousands of hours** across state-specific categories before qualifying for a journeyman license. Most track these hours using notebooks, pay stubs, and memory — a process that leads to lost documentation, employer disputes, and delayed licensing.
