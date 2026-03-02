@@ -29,6 +29,17 @@ The common advice on every trade forum: *"Track your own hours. Don't depend on 
 
 WireHours is a progressive web app designed for apprentices in the field — quick hour logging from a phone, state-aware category tracking, digital supervisor verification, and automated state board form generation.
 
+### Landing Page
+
+![WireHours Landing Page](assets/landing-page-desktop.png)
+
+### Mobile Experience
+
+<p align="center">
+  <img src="assets/mobile-hero.png" alt="WireHours Mobile Hero" width="300">
+  <img src="assets/mobile-dashboard.png" alt="WireHours Mobile Dashboard" width="300">
+</p>
+
 ### Key Features
 
 - **Quick Log** — Log hours in under 30 seconds with date, category, hours, and optional location stamp
@@ -39,6 +50,10 @@ WireHours is a progressive web app designed for apprentices in the field — qui
 - **Employer History** — Hours follow the apprentice across jobs with timestamped, verified records
 - **Offline Capable** — Service worker caching enables hour logging on job sites without reliable connectivity
 
+### Features Overview
+
+![WireHours Features](assets/features-grid.png)
+
 ### Business Model
 
 | Tier | Price | Features |
@@ -46,6 +61,10 @@ WireHours is a progressive web app designed for apprentices in the field — qui
 | **Free** | $0 | Basic hour logging, limited exports |
 | **Pro** | $5.99/mo | State-specific categories, form generation, unlimited exports, CE tracking |
 | **Contractor** | $49/mo + $8/user | Team dashboard, multi-apprentice management, bulk verification |
+
+### Pricing Page
+
+![WireHours Pricing](assets/pricing-page.png)
 
 ---
 
@@ -62,6 +81,12 @@ WireHours is a progressive web app designed for apprentices in the field — qui
 - **Strong word-of-mouth dynamics** — apprentices actively discuss hour tracking challenges in tight-knit trade communities
 - **High switching cost** — once an apprentice starts logging hours in a system, they're unlikely to move
 - Initial focus on states with clear statewide licensing requirements: **California, Washington, Texas, Massachusetts**
+
+### State Compliance Coverage
+
+![WireHours State Directory](assets/states-directory.png)
+
+![California State Guide](assets/state-guide-california.png)
 
 ---
 
