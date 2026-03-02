@@ -223,4 +223,4 @@ This repository serves as a portfolio case study. The production codebase is in 
 
 ## Contact
 
-*[Add your preferred contact method, LinkedIn, portfolio site, etc.]*
+jason.helrigle@gmail.com
