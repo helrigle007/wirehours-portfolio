@@ -215,9 +215,9 @@ This repository serves as a portfolio case study. The production codebase is in 
 
 | Document | Description |
 |---|---|
-| [Technical Decisions](docs/technical-decisions.md) | Deep dive into key architectural choices and tradeoffs |
-| [Product Design Process](docs/product-design.md) | How user research shaped the feature set |
-| [GTM Playbook Overview](docs/gtm-overview.md) | Community-first marketing strategy breakdown |
+| [Technical Decisions](technical-decisions.md) | Deep dive into key architectural choices and tradeoffs |
+| [Product Design Process](product-design.md) | How user research shaped the feature set |
+| [GTM Playbook Overview](gtm-overview.md) | Community-first marketing strategy breakdown |
 
 ---
 
